@@ -1,0 +1,26 @@
+{
+  "name": "Marc Medina",
+  "age": 22,
+  "address": {
+    "street": "Okikup Path",
+    "city": "Mitbesow",
+    "state": "SC",
+    "zip": "70984"
+  },
+  "contact": {
+    "phone": "(422) 739-1711",
+    "servicePhone": "800352455"
+  },
+  "birthday": "1999-10-14T17:34:33.987Z",
+  "ip": "241.111.224.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Er fobo ku af wew vijum odogi ha dut iwumehbi pojuvume fotodum hurowafa muipekec zas gesajuz kug. Ena pur upivana isekosu wavwaad lad amesoede mub huok sivazouva hulotfah cobi afnuhlu aj dut. Lajde owi lolkiho od tewmuzlaf tifo ceasfu aviho pigefte higot nawronwa happa. Vok moj dufenpi iduic se ehimo sa uda ebu kezi aperin nehjop.",
+    "bio": "Jola pi gunepo tuwol ow wab cirbolmid poc hukvunin muazu nebokjiv tilwon met. Deftigige detej henu ilariore vomsid oc ipefu su putiam lo in va wodaal bifuho jewlod ruci arla. Ewukom uccenzag bumibim cem wukap bibkewzur tu vupeam dokas cil zajrop nemavijo kaal sebi ga ohize zepta gumfonlij."
+  },
+  "apiKey": "c92d7ea05015b62d8951d18f2d0804f389066897261dbc8843263c60dbde0093",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
