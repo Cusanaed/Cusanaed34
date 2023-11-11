@@ -1,0 +1,26 @@
+{
+  "name": "Ora Wise",
+  "age": 49,
+  "address": {
+    "street": "Wejceb Center",
+    "city": "Caemug",
+    "state": "TX",
+    "zip": "70774"
+  },
+  "contact": {
+    "phone": "(378) 414-4921",
+    "servicePhone": "800745541"
+  },
+  "birthday": "1991-03-22T20:43:06.237Z",
+  "ip": "114.22.41.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Voal da zel izolobas nuga vog kaniwocak uz zon zab ha sunis ajo nat. Vassawal fudevugo pegjo zi aletcac figu zamuca zofossim dullaun acnabut ujege be etkoc. Ehiutraw wiful ved mavmatza napo idofumsoc ro nonif punraaba am fif at loredzo jobtasic les.",
+    "bio": "Hobkimiz saj pupra ipemid pigiha gajmuj dudtefci sacmuh rigiz fimo pigmoh efkablal kubvedera nuawbe le. Ru mujocav dukit ucanohca rif tomuspum fac so wo jiw eliwapup ner hoko pi. Fefil ri zat mekha wuci ow songibul hookenir acigi hofun wo hevajze or."
+  },
+  "apiKey": "ec2639697db41afb3b6f4357cb2ce208f4d6d86efd024f225e4c23b3439479d9",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
