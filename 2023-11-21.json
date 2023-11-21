@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Potter",
+  "age": 23,
+  "address": {
+    "street": "Erli Pike",
+    "city": "Ondecen",
+    "state": "CT",
+    "zip": "47179"
+  },
+  "contact": {
+    "phone": "(630) 262-8444",
+    "servicePhone": "800378677"
+  },
+  "birthday": "1977-02-19T20:34:37.498Z",
+  "ip": "49.188.144.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Odmi ij met ecwasih wazi mo meipke debuv irosevkef kubgag gihbi toblub palemdac enuupi mupoce. Lado ijibizo fodmagdal elku ohunet ge vanu epunaha colijen om wibuwugu suvwi. Ev lojon vugma ijgivo toparu ahhi aru ozte beev esoim ersuj ipo coswi uh gaza woltim. Zolzajze waprotu tawuz bogceej zakoguhal demnefvuh lewud ki eh bonwutu amjadoc deelosa col hejerot ek widkeji lenatpu. Guebmez wogoniw ew zuroez isigsi pi zivosa fociceeki ki vevlozor toz japadmuf zup pauhu pul rarizfo mog lura. Gem gedoj biahijos ug lasos loozi cukhulem jo bu bokijo ze eko utku.",
+    "bio": "Zik sujrot rakluj put hitwoke neud uf nin naz pas beswiv dul hi woleige zaldi. Afiw bibojeba tistaegu ze hoc sesih liha maj mofruc pep luv ise suj ivuikguf. Gelor wo domog cesfozdaf ovisoet ig bogadja hiwuv pe humvuf ve nicor ub el nukispun ofu."
+  },
+  "apiKey": "bdc07ff236c2cb113b8e9a8d9a88c4ad024f1b42b53ab5db65b968d5cfe341f4",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
