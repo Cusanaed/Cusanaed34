@@ -1,0 +1,26 @@
+{
+  "name": "Max Walters",
+  "age": 36,
+  "address": {
+    "street": "Unohe Loop",
+    "city": "Tehcirib",
+    "state": "IL",
+    "zip": "72327"
+  },
+  "contact": {
+    "phone": "(684) 658-7940",
+    "servicePhone": "800867398"
+  },
+  "birthday": "1968-10-07T09:22:57.826Z",
+  "ip": "239.141.86.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Lu hinum ovakak nemmo hoj oselaprit ev ku rib zibokves til nejuan uwa aduigo mim. Lotam kig omje om osusef kiwiah pita laize omu zoc we enosufluh gac he dajfaka. Farmomej jo her zig cogifozu ikhivgu posejir heroil mapobur akha kovevozij fen hipap ovwemev muhkufu gofurna nafesfop ekrek. Famo hefrezhe osufgif rezeg puap akekon nab wejuhwez ubvacgu orogib batkut fij boneciajo deisi. Juhu mij me bajfohi kasapubo vizi nuub nedjonulu hepavfe gaepace gadwido ku gimuda uhlum bi asgi akubuwiv. Nofanacu zi nev kaso osvurpa lode zecpabok imro ifjeef mo pizfohag tiraug. Ruiwu galodez nolhe usisir osus sed epijusi joif zugte ce eham hetse kihkeosu ti udaisgah fi rik.",
+    "bio": "Uku fufa wecadawij fip vi ji ujivomij zorevaw no tufhi fi ocu lidan roej caz oc. Nesab batujut ut mit wedi gez agdueb satbal boc ge keneba beshurvut ugbo dov wondeszit golfu. Kitgof nuuple dam taovjo wu uhazoig uhedukeb enoiga pe ponsisa muevjer muapieso wufim litokro job pisih."
+  },
+  "apiKey": "2c8b601ef22709894d55cfcbabfd7bee303f65c63766b5e579bd446e983eacb0",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
