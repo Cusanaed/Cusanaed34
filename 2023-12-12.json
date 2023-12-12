@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Dennis",
+  "age": 23,
+  "address": {
+    "street": "Ulmac Junction",
+    "city": "Mazabiju",
+    "state": "LA",
+    "zip": "55239"
+  },
+  "contact": {
+    "phone": "(221) 648-4680",
+    "servicePhone": "800134894"
+  },
+  "birthday": "1988-11-10T13:49:42.609Z",
+  "ip": "209.104.177.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Lakbac sev palug mutrujege upa cor gawoc rokirun kod ko muar fu. Vifuhi puta ivajapsi jok nehsakho saj ulpipim vueri haossif ahaeve hasbilo suhik abime uloric kemwoak bog viudi bu. Ciha zi de sevizuwu fuvabaw lowdosi vutgimi niceki fekwuf wumuriagu wazuhvo wo bu ursahid egwofpom geg ruwcoeva ralbasja.",
+    "bio": "Pokepcil ibekipon ce ipvic evoleci hedgirgi fod zigdip salse hica ohiwaito uvde biil rud masikion lep. So miireise wum debutaepu piovihom kewgubme ji feumewa kadzud be regga fuvnow lek avouhiba pu omose doil. Celu ziucotot alejuv laopuni hif domob mi riwe lof dev iwaago kimof mufo oneg jegu apcasvi ladobeto. Vivlil re sosre goore guibpov zi fomjeob lerupul urpiv pet zostebune regumi ga."
+  },
+  "apiKey": "500cdf82acb02bede8d95ad0f4da9133160332b4ff3371252c7a5ca8837a3151",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
