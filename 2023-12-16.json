@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Schneider",
+  "age": 45,
+  "address": {
+    "street": "Waini Way",
+    "city": "Ejignog",
+    "state": "CT",
+    "zip": "29841"
+  },
+  "contact": {
+    "phone": "(255) 379-3379",
+    "servicePhone": "800723891"
+  },
+  "birthday": "1966-08-29T05:07:42.194Z",
+  "ip": "220.205.47.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Hosonihu jul miliwfum fan woni bihafail dodnep lor legefdi ekjuuz su imzuwu. Me imulasi umkiwiba gizofwuk fekallib le odiej rilulade putdoc doew ez won zowvu. Te rub gaizmo favbaw gofuveg ge eduva kutegifa new jumetfi kickefoj digan ureuvaniw ojuug hake eve ci. Vowugpob mot fevlosnuc ejvagdu fo somje hocune nus ce vulitruz kuteb abaho ut jugjervap muwpeb da.",
+    "bio": "Sobedunu di damvi ib cebezu gujme dojodtif ras zuv vif ron du jasih pelarur. Kozbi zup to ek mowge pewibla uw lufo todhaw karbobume do wo oniw ruriv li bamacof. Voska pik wob runorlov def anuzi pospet ov luzki no rek fu wuzwono liolnap tebuh undefjad. Ferdum uzwik ku og muzivsun op cawe tepvof pak me imoovuwah ja ziic asawaan bapdoz sadaz ufsum. Gek lozog felpaj guzuccu vubdi gep imujibi cupilzem pel nu ufuva isi gihra ni zil jili asnimov iruasaze. Vi konippi maenu igves se meni uvoze ratzac tajpob mowko lanro riwdow pu naunijo naedfe ec."
+  },
+  "apiKey": "13ea4129e4b1b975cd5b075e3afa8164e82d503b4920486c45b4b22c515178af",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
