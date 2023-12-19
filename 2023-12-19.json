@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Campbell",
+  "age": 23,
+  "address": {
+    "street": "Maebe Court",
+    "city": "Hivmici",
+    "state": "ID",
+    "zip": "86527"
+  },
+  "contact": {
+    "phone": "(922) 660-5836",
+    "servicePhone": "800375892"
+  },
+  "birthday": "1981-07-08T09:51:44.417Z",
+  "ip": "144.185.24.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Eda asole foso kezak pomta gegeg aszibo go gij lijufru sibepe acalew ta. Ag za warumawo josku esisi itago palihip kawwa juhhiswu jimav hisab pug ap merbetos. Sufeti ihzor wozof zuuwa omi repojel dare duje co poni di ep. Bujgespo mewmuawa meluki fegemi tig non zidrodtew wuzenuha nacbibod jullik so ag favgalka bev juvojmu er wuhazgeh.",
+    "bio": "Waric jan vewuzfow top gabuni wecdakad raicif cifnonap redi ru siv dohku ufejuso. Win ubmewa kofnuha ipham zidubu do rijed ipemo nojow ehjaela dasna roz nifhur mazol. Ipa oracuwa josfugdo uha di ebe sakwebu naocazu dusejak da gizu muok rame."
+  },
+  "apiKey": "e757b80ec72cf64d142c4263afaa55d6b13c01d748e9b90526ce270589c2c1cc",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
