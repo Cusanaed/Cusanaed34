@@ -1,0 +1,26 @@
+{
+  "name": "Mae Sparks",
+  "age": 36,
+  "address": {
+    "street": "Cogbik Street",
+    "city": "Jemekek",
+    "state": "CO",
+    "zip": "41534"
+  },
+  "contact": {
+    "phone": "(847) 237-6734",
+    "servicePhone": "800957358"
+  },
+  "birthday": "1972-03-16T04:49:28.054Z",
+  "ip": "167.64.117.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Fonfud cite necar rom sohja bamomri zimi icelep limdevi zasumfe wiomman ez iwupito vu fo salef. Vupuv zudzifsum jo huh mantap lusuh iruutvu foce ir des deudu fek ibe fel bezda nuol sev. Keav fu biosrid tatohiwu dupiv avu oji wocit kizbarod al fupota kidsu jiszozo wo burin me.",
+    "bio": "Tebfajho apiekebar luc ji murnepcu ibtuej panuwasal losraj hogkubos abcucsaf zul miztopab ed. Azo reuto mem fekute enu duokulew dorgiov sisavve zawaalo bogaziz la fu wafgapif kaeza. Tegawde bunba ofuna eg fic viji jofewuhe fuvuhu bowle taz icwismid zabekeno ige namkufi."
+  },
+  "apiKey": "5b276b8e6458153801435dbd7456ad650691778e3ce8fcd45420c8e01c936a26",
+  "currency": {
+    "code": "CVE",
+    "name": "Cape Verde Escudo"
+  }
+}
