@@ -1,0 +1,26 @@
+{
+  "name": "Johanna Harrington",
+  "age": 22,
+  "address": {
+    "street": "Kusej Loop",
+    "city": "Lamalnu",
+    "state": "MT",
+    "zip": "74025"
+  },
+  "contact": {
+    "phone": "(583) 940-9571",
+    "servicePhone": "800347827"
+  },
+  "birthday": "2001-11-09T15:34:15.577Z",
+  "ip": "105.143.55.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Iweah sukamiroj govve vek teldu zu cowoclem kuda hizuhvud ehti imatih dogun. Ubbojkef zufiz ju oz zounojo utife sepdulzok cososino zuwpi uci urpov col cuzkumas popagibej covgato kum gakal. Higbev keztubaz lunnef fakuc gibagec adefi isamkit bameruv sar boklu dovfuco gij ko jemad be ezdigne arkak. Liznafi toniwudo upa je mo fikdo sahkoko ke jisu norul ocwul inuvfim obave hab dav cak koniw. Da vihaus bamako ul seduce fapuz selluspi tanagid dozo zaoko fizezduc nub kuh tewni catzu. Uvafi suvpofo bopkeju ve uh iv pa age da muz bancigmu pawgomek.",
+    "bio": "Gec navcooku pa hum goevuvi dagobacu ur uj na ipejasiw valmapoje ek oze boluvze. Zespab sewifum al perokdec ge zudose babgu lez fel jif fuw hemewibob sal opeuvu. Bowso dogno da podowje benlowum zo fihmalir sikhor fabjo vofojmaz kovatehe we kerbof tihi bum ucoufoor sifzaw tacpefre."
+  },
+  "apiKey": "02f6622bbbdb82eb69ca8c3d111f488a106fe9730d9c7f1ce43fde439a01c299",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
