@@ -1,0 +1,26 @@
+{
+  "name": "Gilbert Duncan",
+  "age": 23,
+  "address": {
+    "street": "Pirtu Parkway",
+    "city": "Etonaab",
+    "state": "UT",
+    "zip": "99959"
+  },
+  "contact": {
+    "phone": "(578) 645-7975",
+    "servicePhone": "800959774"
+  },
+  "birthday": "1960-11-01T11:09:04.305Z",
+  "ip": "206.245.240.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Cis evahof gatjivod damve jat wih ivura zulzu radilkaw owuse dacewin zafor cebumju difudu pigjew omhuzva. Rahintov junu sambiek asopieto bage tepap ra puodgu jihkemif rumu gov fo aha tewwaci nuba. Gihut irdapsor elufuw gelde ne hizorarol tolu fija je mi riudi izuonuolo arasof vemijan tupcunfum si. Liccilve iv wuod cizzo ze zebu tadomo noiwigod bare vakgamsa zubripum sovbo jajihu. Wab go so civ lacvuw tefewemu gememlod sepirvik enohaho nutucal za egazovma kidfohgir cuvpef vanogu.",
+    "bio": "Ofeci nekehmo vapwujo lakpijdu wicwo etodecat ad zem ad ra wavgono gafegeza nun amu dobpoaro bolu. So kohof kosib opaipeh jihilse sur os vase dudopzaz mu devamkeb jofauho bo riwus goji ovoiwuvot. Bom ozhecmum kor pacga mov huvo mikwi obi manihsur fugu hebe detsajki kiab didiiko damiz le. Cuwensor zefdiva jik hip zu noetkeh mo zis onkana mal wilubda ratidru vesot."
+  },
+  "apiKey": "d7955bb280d6aa70543cc24680400566fcb5253ddeffc6efd0c427629b8741f4",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
