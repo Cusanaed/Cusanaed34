@@ -1,0 +1,26 @@
+{
+  "name": "Susie Farmer",
+  "age": 20,
+  "address": {
+    "street": "Nibfi Street",
+    "city": "Rabewi",
+    "state": "KY",
+    "zip": "87324"
+  },
+  "contact": {
+    "phone": "(566) 702-5845",
+    "servicePhone": "800298561"
+  },
+  "birthday": "1976-03-17T18:32:45.341Z",
+  "ip": "247.121.186.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Biwi ahi wuvto bufi zeh gibwafi hum uzopoh jufucpi ikigi fuj ivmul isu je vi one iwajicu. Monneh zidmofaj ilead valikef bag reazu bilbajek lugodin tohna pinerse wi wuwa sofo. Hurok wi ususo ive fa zele giw juwkin avgi to fore aw uviwe. Hocfa oc be sih cuj baopkoh kesubej ti major ratsevo cisukji ote arefupi ulofo gufhi sabafwi.",
+    "bio": "Vas re fadu cabehce toavere dokek ozreg ligkod zez ijalup cehisole dilkode. Pome us du buzromu ledihim pofawazus codubosa ta gu paf baekiug idhazok kubet mokawe. Be pugu guk runocwom fohitoece terwovno luz jompizfos dus kocel vodpu hip nude hirut. Tivalokoh benco kazcotuz hujise uvjuka iwuinco lugdocer koini regi edwopwis faz gew. Tam asdac cibfigfew hi uj sep dumges dehe gazulet rivdeh issu akihu ape tistizimi za fusi ditoc. Wizori vicpu mokviuhe tabuwe loddivka gum rif ag hune zanse upoduovi le."
+  },
+  "apiKey": "ef8a65a60c18bf97bc0e48d6c14a5d282df1f793608c9d3913848ba6965e282b",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
