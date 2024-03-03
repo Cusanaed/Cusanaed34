@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Allen",
+  "age": 25,
+  "address": {
+    "street": "Mono River",
+    "city": "Febaset",
+    "state": "FL",
+    "zip": "75886"
+  },
+  "contact": {
+    "phone": "(515) 293-4765",
+    "servicePhone": "800897442"
+  },
+  "birthday": "1978-07-12T12:04:10.291Z",
+  "ip": "75.44.55.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Pu nu uwajinro sa kadcedte owu va fif napja zatenva zej otobias vuewhom kaduk. Zuew ve uwozsi fuvav jif nez ecailada jupen nub tuckam pommu vew cotum bek how ve. Gid fovetuw anook ascip ogatijhi papoj daslupgi tifrahal rozdasvuz duorutu uzode aro ku refwojdin.",
+    "bio": "Lazedri huzorkub vecec koilijir fuwwabir mol ackohew ponihe ze zakejfag ge toc. Ho ehiguuvi zovnad laz tut vah gocgupe ke viahum otguc wiffez du touw kogu afbod tuw. Pe podet loac dulaek we sucuza maf bin ub awdumi nalsitvob vifozcuc dam ma atufus. Wiga ife zabez zazac happocej dowlevdur gudazga kasid bu pavir camazasus jadti bizvifpaz div wub mi. Gun avelon buc we pitul bitaj ra vibu mew uwvamin janvivben fe."
+  },
+  "apiKey": "42cbf941e3160494b5557d5755d656b523428e2e22e47d451f3ffb5db0e9842e",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
