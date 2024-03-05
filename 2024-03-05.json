@@ -1,0 +1,26 @@
+{
+  "name": "Ada Park",
+  "age": 25,
+  "address": {
+    "street": "Uzgem Center",
+    "city": "Uceacfak",
+    "state": "NE",
+    "zip": "23149"
+  },
+  "contact": {
+    "phone": "(423) 351-5547",
+    "servicePhone": "800694428"
+  },
+  "birthday": "1995-02-09T20:24:49.126Z",
+  "ip": "116.236.41.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Adacuom sin ukuazuma agu cilpu av ucire buse gejuble wepuape ipinaud nol cum. Bajhu miluc jaz izra cu odub amo le ozge pube nuvpothot avjer zor. Kuldukmo ipcevopi gaes acvuc kavbasim buwjo iclu pib det zecirtiz digeh biweh fo.",
+    "bio": "Wewverza oro hawogtu ohne otamuza gutohto heicot nontied kiw wek celgiwo usoziwpav um bilhoj hune gu orcidip tozgu. Tahooru jud idpah vewpuji nogzu ir utugduz fog soje aznedlo dar maskihij womilis zaget kigipul fufocdel tovuz. Gav poho vuhit cozco rel wajzita tomfil vozas keh na ga gekpad rovur za uvronkud pif."
+  },
+  "apiKey": "86d459fa7534cd8e1d74052b02470d3ef559a7f3e1dcb8381361d298797d65f8",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
