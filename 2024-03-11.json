@@ -1,0 +1,26 @@
+{
+  "name": "Sam Barrett",
+  "age": 34,
+  "address": {
+    "street": "Bobefo Turnpike",
+    "city": "Efateuj",
+    "state": "AL",
+    "zip": "07168"
+  },
+  "contact": {
+    "phone": "(226) 203-5311",
+    "servicePhone": "800242254"
+  },
+  "birthday": "1975-08-02T02:20:30.222Z",
+  "ip": "224.14.152.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Roztig jal diuz wo erepo abivama izriw ajpa onokan udanufub apaok odtamwe hum bu rofre. Lusatuz on oju sinippel epawuza olbatwep tub wu gut henbi kitu bav. Bik ule ermol uhsu bem nohgeg na jegguh nuk rodu datun uprewal meesgu jespik gosnow ut.",
+    "bio": "Kugam vurructes ta ma be rionu cahgo mugti jot leeh tien je zagavli. Pep dal zof zod edsooja oravi ho ige na sokurav ji hegnaeri kageniv fa demno akuwu pudu. Zoonfuf cehpevih hajihi becdezu tovismo bi uc zuhe derale ruv ipna bakuj iwoejetu. Bifcor nunhez ze ramipib efuvadu neil lomuvtep nagkuepe ed li pifatliw mibpoc zuepoozu avewuska zo uz efoge wudoen."
+  },
+  "apiKey": "9957adb24ee4594aee045ac341de9035e792f08484decd82b63f34142021eded",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
