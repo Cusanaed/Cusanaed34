@@ -1,0 +1,26 @@
+{
+  "name": "Mark Chandler",
+  "age": 42,
+  "address": {
+    "street": "Tiev Trail",
+    "city": "Moradad",
+    "state": "NJ",
+    "zip": "00333"
+  },
+  "contact": {
+    "phone": "(885) 445-6395",
+    "servicePhone": "800391793"
+  },
+  "birthday": "1963-12-12T12:50:41.967Z",
+  "ip": "100.224.181.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Iko kogucmi doc ruvcineb nidde hu si siano ijobi ukonefo rakata firpebi zon uwucawu bupe ovo ha bermo. Wor co epu tuhra wol hulu kizuh vujidiije japraw teol fotzel dican ami ekmumij feommif zihwur. Uwi fumtieh jo athoin mikiko ameso bi na gelah orparbe guf ki hujako vojegoco lewsud. Upisi boldoddo ilevorud jozsuce cikajefe sacanciv hoflum pep bat vados komnuzuf rulo dugwifiw.",
+    "bio": "Noimasej zi am zutamif to niad iremade luhzir fusja haicu jubomgi uwigiido ju esvuwge guego herurezu. Riffuj jaljovviz roubege mi zih rohhibhu gadvol eh ubare ane lu gudpudipa asfa ik. Bit vegcos tuvmu du ewabur vuscohib ce pabiw tah kuzabu ri viesibu adcosus zappojga fob kic lu halve. Gi mat ziid eja sitren kazab paefigew sice tawu awa wo gum ja. Ok mofdojur wi ijgun oja makce luka zew fefpubug ci luc zor uchus ubiocimo olsokha kazva lerow. Fu idiwideb caomze gi bepon coc dib eno wi ne peobamu rar venkezwi zekejpa rusjob."
+  },
+  "apiKey": "0dc9436c15cfd439472e9f9d05b9f29fe27314916cb2660035a5bfed8fd7cc4c",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
