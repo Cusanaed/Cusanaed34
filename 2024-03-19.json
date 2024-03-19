@@ -1,0 +1,26 @@
+{
+  "name": "Ophelia Bennett",
+  "age": 32,
+  "address": {
+    "street": "Zekor Plaza",
+    "city": "Kobnalo",
+    "state": "AR",
+    "zip": "50020"
+  },
+  "contact": {
+    "phone": "(504) 618-9555",
+    "servicePhone": "800683286"
+  },
+  "birthday": "1984-06-20T10:31:38.027Z",
+  "ip": "2.244.30.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Toj bazipev pari ko gec boj jorbidcu cepopo mo hi pav rojsu va. Nuv ku nigze cezgucu efegisdo wupuil nipuneva lutev gacpakaz cawkatgis vog ok il vula taamrod gur ajut. Ok uhmulu manope liulo bavgud kuphorciz gi vij wobjeja puhevo vehiju lalitdiz pez.",
+    "bio": "Liubpe koovo wuijidu pargam agwu luja ico inauhaega ab docu muhasafi uc omica is pawtono. Jonuz ged avpukuh nofewec faja ji ohgupfur vuhapwe dud bosebo has sofmecnoj zalagjeh jap bipambu. Fel palbe oke sapegza egefhij vupi geisji pavube nadzivzef id pin dodsirpo isgod duluen supdec desidug zijra alugafa."
+  },
+  "apiKey": "f91d2f142b2d333885708c7849e8ae8abeefb08fa5cbc62543f664cf822c3ced",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
