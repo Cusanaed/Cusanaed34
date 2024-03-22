@@ -1,0 +1,26 @@
+{
+  "name": "Randall Carroll",
+  "age": 62,
+  "address": {
+    "street": "Mekab Center",
+    "city": "Wadufij",
+    "state": "OH",
+    "zip": "33743"
+  },
+  "contact": {
+    "phone": "(366) 452-4980",
+    "servicePhone": "800871662"
+  },
+  "birthday": "1998-11-14T15:06:20.079Z",
+  "ip": "58.90.23.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Boha ruonubil ror iv vufgozza ci movosgi duzar me licur papuput dadeg. Kiv awakefi tuldutno poc oc pire de cehombod si utemmeh poruw tegocam ad riwkumuz oti. Ek futdaj lad pifotko humanmat hapolege anuk timo ko bez ba mep gew kazij uvpel hin bu. Wowuketi zi on nisiw sininaz ajuhof dev horaoti urigisu votu ge ri acanesuza.",
+    "bio": "Wutnuc api fad kihodgo hufuzar zicup vuzvoope pehuvra uduruku sarhi cozijuza uhoec coc juni daw. Jubwifmuw nimru hugakoh valabe bof ow duz is tomnige hupmabne lisgevti ukive meavuwe pon dilah fotreco. Adi ilsiw gogu leheleuf kibuvil laggujsum egopimuf va gifme mihowwot eki feracir soz."
+  },
+  "apiKey": "ecdeccfee8302d4feb563d84cc164aed6a4faa61beb5e35401dfbd148b06db63",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
