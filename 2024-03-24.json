@@ -1,0 +1,26 @@
+{
+  "name": "Peter Waters",
+  "age": 32,
+  "address": {
+    "street": "Caflav Drive",
+    "city": "Cuditsa",
+    "state": "AK",
+    "zip": "04532"
+  },
+  "contact": {
+    "phone": "(560) 561-9378",
+    "servicePhone": "800185122"
+  },
+  "birthday": "1974-03-26T02:08:31.881Z",
+  "ip": "69.195.24.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Defudli itviene sefdebi ove voso woud hagistes mogufle pokipuuwu satude zoem ciug viznar wakop arohavi asjabwub. Wubwe umumep nohas goog gagu cugag musgup fo ratpalom bitol ofkud watdubaf vutur jebvap so za emsa ogkuksu. Ju parti inakies zodmabke to aku kawo jo vi neucwu siemtaw luiwere uzeli rokvo ji apubehuv. Udca ifoga ivewa himonmob ko pufivdow nope nubvu wicne zobpuan nuwuha wo ma urefeot.",
+    "bio": "Kous gafho vuc op nisud ako fuci mujtanzo wim vagata vabzek soc fiafe roka anruh fida etbi sijaowi. Fielicu hivisevo juefeti aware ano adaha fef aso pu pu lufveoj cemberug iz zib wimenhic. Vesliog og cenmuicu ocaz pu zuntuv ogooveho ho ga ve kic lug rosos dav tohorte ec. Dopo jerfemsiw wat lujunmi cib wicvecu mokabof cagas caam anepebtor zov rohom mughehe luwtatof acige wiwalum logaw nepom. Hun osetaswof mukdas vidtocfun siam tefipaku rujora woso deg meaf mu afamu gilusuiwe gavu itbave po at."
+  },
+  "apiKey": "c30902d2addda5248d5621105cf53b4f4cb5506f3555ea9c5bb2dcd503be71cf",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
