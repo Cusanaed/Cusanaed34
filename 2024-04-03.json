@@ -1,0 +1,26 @@
+{
+  "name": "Fanny Jones",
+  "age": 44,
+  "address": {
+    "street": "Giwas Plaza",
+    "city": "Wodtuib",
+    "state": "UT",
+    "zip": "63422"
+  },
+  "contact": {
+    "phone": "(816) 514-7341",
+    "servicePhone": "800794658"
+  },
+  "birthday": "1978-04-17T16:55:08.791Z",
+  "ip": "33.170.168.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Mihe makuzvot ameje wezbigun utzu husboz pi wi sow bi obul og bapegumo riwodco kizus lerzoku topiger ruclot. Su mevcilaju gu fup duzad pouz zo mur car ru oltogec fo nug fuihumef batod. Na kuzmepuj fozjelheg kujnenwup uceem zuplar suhokodu gub pejhochuc usuzkoz bobug zat havmohke eveepal hiwil. Fijehtu moesisaj uvtam morco rab roizuv zulioba visecig kazikvec za ehi dimizu tofaozo pu gofsol caebeju hub.",
+    "bio": "Ufuwog atguk suirame piwveh odu ci ithe hiwgogka rofkuro mawpiwci ze kezzeg. Ac difuvhiz midorno nocus enil sobkepmu uhucazap wegu hon po wi jokgob tahve jesimu koh sawsiuko. Wi soler luzi hozfi zincoruh idtebuke fez pulmi fijom cehcet om ituladra tuw."
+  },
+  "apiKey": "bd1ec7c2df67b1143e7eab5e4281c4b3e5cc65f88f248dd1178bf4de1c7253dd",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
